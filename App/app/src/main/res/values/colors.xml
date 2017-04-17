@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="whiteFaded">#E8FFFFFF</color>
+
+    <!-- Referenced from the Foursquare Brand Guide: https://foursquare.com/about/logos -->
+    <color name="FSQStrawberry">#E6092C</color>
+    <color name="FSQMacCheese">#FF6701</color>
+    <color name="FSQOrange">#FF9600</color>
+    <color name="FSQBanana">#FFC800</color>
+    <color name="FSQLake">#0278ff</color>
+    <color name="FSQSea">#0060cf</color>
+    <color name="FSQBlue">#003c82</color>
+</resources>

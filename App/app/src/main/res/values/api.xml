@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
+       <your google_maps_key here>
+    </string>
+<string name="foursquare_client_id" templateMergeStrategy="preserve" translatable="false">
+         <your foursquare_client_id here>
+    </string>
+<string name="foursquare_client_secret" templateMergeStrategy="preserve" translatable="false">
+        <your foursquare_client_secret here>
+    </string>
+</resources>
